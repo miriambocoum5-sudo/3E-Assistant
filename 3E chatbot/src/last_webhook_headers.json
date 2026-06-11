@@ -1,0 +1,13 @@
+{
+  "Host": "geek-sincerity-superhero.ngrok-free.dev",
+  "User-Agent": "facebookexternalua",
+  "Content-Length": "544",
+  "Accept": "*/*",
+  "Accept-Encoding": "deflate, gzip",
+  "Content-Type": "application/json",
+  "X-Forwarded-For": "2a03:2880:2ff:57::",
+  "X-Forwarded-Host": "geek-sincerity-superhero.ngrok-free.dev",
+  "X-Forwarded-Proto": "https",
+  "X-Hub-Signature": "sha1=65e56180ad55125a26f4e8243fd1803b9e096047",
+  "X-Hub-Signature-256": "sha256=90f82af2beb121505e8fc5d12a862e55fb3b86be0a67b716436ea08837b3b770"
+}

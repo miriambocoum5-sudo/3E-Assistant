@@ -1,0 +1,7 @@
+streamlit
+requests
+numpy
+sentence-transformers
+playwright
+flask
+python-dotenv
